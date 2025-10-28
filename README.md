@@ -1,6 +1,6 @@
 # Analisis Wabah Ebola Menggunakan Regresi Polinomial dan Golden Section Search
 
-Ini adalah Proyek Akhir untuk mata kuliah Sains Komputasi di Universitas Negeri Surabaya. Proyek ini menganalisis dataset wabah Ebola 2014-2016 di Afrika untuk memodelkan hubungan antara jumlah kasus terduga dan jumlah kematian terduga.
+Proyek ini menganalisis dataset wabah Ebola 2014-2016 di Afrika untuk memodelkan hubungan antara jumlah kasus terduga dan jumlah kematian terduga.
 
 Metode yang digunakan adalah **Regresi Polinomial Orde 3** untuk membuat fungsi persamaan dari data, dan **Golden Section Search (GSS)** untuk mencari titik optimal (minimum dan maksimum) dari fungsi tersebut.
 
